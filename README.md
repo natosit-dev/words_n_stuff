@@ -4,6 +4,11 @@ Essays, white papers, working papers, notes, and other words that became finishe
 
 ## 2026
 
+### What Is Healthcare Data
+
+- [Version 1 — August 11, 2026](2026/What_Is_Healthcare_Data_8.11.2026_v1.md)
+- Status: Essay / public archive
+
 ### Media, Technology, and Society: McLuhan and his relevance today
 *Or “Understanding Media Through Keanu Reeves”*
 
