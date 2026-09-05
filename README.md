@@ -20,3 +20,10 @@ Essays, white papers, working papers, notes, and other words that became finishe
 
 - [Version 2 — August 26, 2026](2026/What_Is_AI_8.26.2026_v2.md)
 - Status: Working paper
+
+## 2012
+
+### State of Health Information Exchange: Massachusetts Edition
+
+- [Version 1 — June 8, 2012](2012/State_of_Health_Information_Exchange_Massachusetts_Edition_6.8.2012_v1.md)
+- Status: Historical conference report
