@@ -27,3 +27,10 @@ Essays, white papers, working papers, notes, and other words that became finishe
 
 - [Version 1 — June 8, 2012](2012/State_of_Health_Information_Exchange_Massachusetts_Edition_6.8.2012_v1.md)
 - Status: Historical conference report
+
+## 2011
+
+### Synergy, Community and Engagement in the #HITsm Community
+
+- [Version 1 — April 21, 2011](2011/Synergy_Community_and_Engagement_in_the_HITsm_Community_4.21.2011_v1.md)
+- Status: Historical article archive
