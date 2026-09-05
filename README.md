@@ -34,3 +34,10 @@ Essays, white papers, working papers, notes, and other words that became finishe
 
 - [Version 1 — April 21, 2011](2011/Synergy_Community_and_Engagement_in_the_HITsm_Community_4.21.2011_v1.md)
 - Status: Historical article archive
+
+## 2004
+
+### Media Deregulation and its Effect On the Public Discourse
+
+- [Version 1 — 2004](2004/Media_Deregulation_and_its_Effect_On_the_Public_Discourse_2004_v1.md)
+- Status: Historical political/media essay
