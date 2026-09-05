@@ -50,6 +50,12 @@ Essays, white papers, working papers, notes, and other words that became finishe
 
 ## 2003
 
+### Teacher Recommendation for College
+
+- [Version 1 — Spring 2003](2003/Teacher_Recommendation_for_College_Spring_2003_v1.md)
+- Status: Historical educational artifact / self-assessment
+- Context: Junior- and senior-year coursework completed in parallel; no grade was skipped.
+
 ### Categorically Speaking: Stereotyping and Social Commentary In the Early Works Of William S Burroughs
 
 - [Version 1 — December 12, 2003](2003/Categorically_Speaking_Stereotyping_and_Social_Commentary_In_the_Early_Works_Of_William_S_Burroughs_12.12.2003_v1.md)
