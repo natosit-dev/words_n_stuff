@@ -1,0 +1,12 @@
+# Media Deregulation and its Effect On the Public Discourse
+
+**Nat Osit**  
+2004  
+Version 1  
+**Status:** Historical political/media essay
+
+*This is an archival publication of a 2004 college-era essay. Period-specific legal and political claims, quotations, terminology, source URLs, and factual assertions are preserved without substantive revision. It should be read as a historical artifact rather than as a current fact-check or present-day policy statement.*
+
+In 1996, the President Bill Clinton signed the Telecommunication Act of 1996 into effect. This was the beginning of the deregulation of media ownership in radio and TV. The act had many different parts, but one of the most drastic was the elimination of previous rules limiting the amount of radio stations one company could own nationally. Another change was that in a radio market with 45 or more commercial radio stations, a party may own, operate, or control up to 8 commercial radio stations, not more than 5 of which are in the same service (AM or FM). This decision led to the ability for a small number of corporations to own a majority of the radio stations in the country.
+
+Radio frequencies are a scarce natural resource, so in 1934 the Federal Communications Commision was established to regulate the use of these frequencies. The creation of the FCC and the rules regarding radio created a stable business environment for the radio corporations to operate in. In exchange, the FCC made radio stations operate “In the public interest, convenience, and necessity”. The strictness with which this obligation is enforced has dwindled over time after many lawsuits from the broadcast industry, and now there is much more lenient enforcement of the public interest guidelines. In 1987, the Fairness Doctrine, a statute that made news organizations cover all sides of a controversial issue, was eliminated in a D.C. court decision. The current FCC Chairman Michael Powell (son of Colin Powell) has referred to the media industry as his “clients”, although the FCC was established for the opposite purpose. The deregulation that occurred in radio allowed companies like Clear Channel and Entercom to buy up large shares of the radio market, and dominate the industry in a way never before seen. This is not a stable business environment, this is not capitalism, and this is not an exercise in free speech, as some might claim. Even Ted Turner, founder of CNN and Turner Networks, has stated, “When you lose small businesses, you lose big ideas. People who own their own businesses are
