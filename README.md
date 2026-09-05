@@ -41,3 +41,10 @@ Essays, white papers, working papers, notes, and other words that became finishe
 
 - [Version 1 — 2004](2004/Media_Deregulation_and_its_Effect_On_the_Public_Discourse_2004_v1.md)
 - Status: Historical political/media essay
+
+## 2003
+
+### Categorically Speaking: Stereotyping and Social Commentary In the Early Works Of William S Burroughs
+
+- [Version 1 — December 12, 2003](2003/Categorically_Speaking_Stereotyping_and_Social_Commentary_In_the_Early_Works_Of_William_S_Burroughs_12.12.2003_v1.md)
+- Status: Historical literature essay
