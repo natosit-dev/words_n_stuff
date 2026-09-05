@@ -9,6 +9,12 @@ Essays, white papers, working papers, notes, and other words that became finishe
 - [Version 1 — August 11, 2026](2026/What_Is_Healthcare_Data_8.11.2026_v1.md)
 - Status: Essay / public archive
 
+### John Cage: Father of the Modern Avant-Garde
+
+- [Version 1 — archived September 5, 2026](2026/John_Cage_Father_of_the_Modern_Avant-Garde_undated_v1.md)
+- Original date: Undated, college-era
+- Status: Historical music essay
+
 ### Media, Technology, and Society: McLuhan and his relevance today
 *Or “Understanding Media Through Keanu Reeves”*
 
