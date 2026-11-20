@@ -36,6 +36,11 @@ Essays, white papers, working papers, notes, and other words that became finishe
 
 ## 2011
 
+### What Took EHR So Long?
+
+- [Version 1 — March 11, 2011](2011/What_Took_EHR_So_Long_3.11.2011_v1.md)
+- Status: Historical article archive
+
 ### Synergy, Community and Engagement in the #HITsm Community
 
 - [Version 1 — April 21, 2011](2011/Synergy_Community_and_Engagement_in_the_HITsm_Community_4.21.2011_v1.md)
